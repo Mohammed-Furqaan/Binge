@@ -106,9 +106,3 @@ Instagram: https://www.instagram.com/furqaannnnnnnn_/
 
 If you like this project, give it a star ⭐ on GitHub!
 
-
----
-
-# ⚠️ Before You Paste
-
-Just replace:
