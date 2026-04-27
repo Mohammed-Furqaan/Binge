@@ -100,7 +100,7 @@ Furqaan
 
 Portfolio: https://furqaandev.vercel.app/
 
-Instagram: 
+Instagram: https://www.instagram.com/furqaannnnnnnn_/
 
 ⭐ Support
 
