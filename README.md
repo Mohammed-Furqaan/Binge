@@ -7,7 +7,7 @@ It focuses on clean UI, smooth performance, and a real-world streaming experienc
 
 ## 🚀 Live Demo
 
-https://furqaandev.vercel.app/
+
 
 ---
 
@@ -100,7 +100,7 @@ Furqaan
 
 Portfolio: https://furqaandev.vercel.app/
 
-Instagram: (add your link here)
+Instagram: 
 
 ⭐ Support
 
