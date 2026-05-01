@@ -95,7 +95,6 @@ Voice search
 User accounts
 Reviews and ratings
 👨‍💻 Author
-
 Furqaan
 
 Portfolio: https://furqaandev.vercel.app/
